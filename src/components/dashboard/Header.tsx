@@ -66,7 +66,7 @@ export function Header( { folders, selectedFolder, handleFolderClick, levels, se
               <DialogContent className="sm:w-[80%] md:w-[50%] lg:w-[50%] bg-white p-6 rounded-xl border border-gray-200 shadow-lg">
                   
                   <DialogTitle className="text-2xl font-semibold text-gray-800 mb-4">
-                    Choose 
+                    Choose Language
                   </DialogTitle>
 
                   <div className="flex gap-3 mb-6 flex-wrap">
