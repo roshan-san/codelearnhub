@@ -18,6 +18,7 @@ export function Footer() {
                 <h3 className="font-semibold">  Developers</h3>
                 <Link  className="text-sm text-muted-foreground hover:text-foreground" href={"https://www.linkedin.com/in/abinaya-chitra-39242a300/"}>Abinaya Chitra</Link>
                 <Link className="text-sm text-muted-foreground hover:text-foreground"  href={"https://www.linkedin.com/in/jeyashalin"}>Jeyashalin Ricchi</Link>
+                <Link className="text-sm text-muted-foreground hover:text-foreground"  href={"https://www.linkedin.com/in/roshan-s1k"}>Roshan Jeyaruban R</Link>
             </div>
     </footer>
   )
